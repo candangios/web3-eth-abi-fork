@@ -1,8 +1,7 @@
 {
-    "name": "web3-eth-abi",
+    "name": "web3-eth-abi-fork",
     "version": "1.3.4",
     "description": "Web3 module encode and decode EVM in/output.",
-    "repository": "https://github.com/ethereum/web3.js/tree/1.x/packages/web3-eth-abi",
     "license": "LGPL-3.0",
     "engines": {
         "node": ">=8.0.0"
@@ -21,6 +20,5 @@
     "devDependencies": {
         "dtslint": "^3.7.0",
         "typescript": "^3.9.5"
-    },
-    "gitHead": "f6d60bd5ec70a932d8b7bc2cbb6a577a2fd22919"
+    }
 }
